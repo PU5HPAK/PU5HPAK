@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PU5HPAK
-- 👀 I’m interested in Cad Automation Projects
+- 👀 I’m interested in Automation Projects
 - 🌱 I’m currently learning C++/CAA Catia
 - 💞️ I’m looking to collaborate on Cad automation & Customization
 - 📫 I am available at pushpak.jinde@gmail.com
